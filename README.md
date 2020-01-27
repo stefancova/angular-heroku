@@ -2,4 +2,4 @@
 
 Test hosting angular app on Heroku
 
-Test 1st commit
+https://www.agiratech.com/how-to-deploy-angular-application-to-heroku/
